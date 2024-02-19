@@ -5,12 +5,48 @@
     <meta charset="utf-8">
 
     <title> IFSC 1310 | Mac McClure </title>
-    <meta name="description" content="Keyword Rich Description">
+    <meta name="description" content="Pinterst Interest, why are people so interest in pinterest?">
     <meta name="author" content="Mac McClure">
 
 </head>
-
 <body>
-     <h1>Mac McClure</h1>
-</body>
+    <div id="Consumer Statistics">
+        <header><h1>Pinterest Interest</h1></header>
+        <main>
+            <section class="page content">
+     <h2>Reasons People Go on Pinterest</h2>
+
+     <form action="processing-script.php" method="post">
+        <fieldset>
+            <legend>Consumer Information</legend>
+            <input type="text"/>
+        </fieldset>
+    </form>
+
+    <table border="1">
+        <caption>Reasons People get on Pinterest</caption>
+        <tr><th scope="col">Reasons</th><th scope="col">Quantity(How many People)</th></tr>
+        <tr><td>Drawing Inspiration</td><td>20%</td>
+        <tr><td>Wallpaper</td><td>20%</td>
+        <tr><td>Just Because</td><td>10%</td>
+        <tr><td>House Decor Inspiration</td><td>38%</td>
+        <tr><td>Tattoo Inspiration</td><td>12%</td>
+    </table>
+    <p>Pinterest is used by people everywhere. It is important to most people who use it because they enjoy looking at creations that other have made, or just to get inspiration for creations they would like to create. In research, I decided to see why people get on pinterest themselves, along with the statistics behind it.<blockquote>One person even said that<cite>I believe that there are a pletherea of reasons I get on, as it depends on the time of day.</cite></blockquote></p>
+     <img>https://i.pinimg.com/564x/24/62/cd/2462cd701ca2c2d302c614c1ef8502f4.jpg</img>
+     </section>
+     <nav>
+        <ul>
+            <li><a href="https://www.pinterest.com/" target="_blank" title="Berbose link description">Absolute Link</a></li>
+            <li><a href="index.html">Relative Link</a></li>
+            <li><a href="#top">Anchor Link</a></li>
+            <li><a href="macmcclure1@ualr.edu">Contact</a></li>
+            <li><a href="file.pdf" download>PDF Document</a></li>
+        </ul>
+    </nav>
+    <footer class="primary" role="contentinfo">
+     <h6>&copy; 2024 Mac McClure | Back to Top Link</h6>
+    </footer>
+    <div id="Consumer Statistics"></div>
+    </body>
 </html>
